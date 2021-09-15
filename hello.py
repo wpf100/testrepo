@@ -1,3 +1,5 @@
+import new
+
 print('hello world')
 
 x = 5
