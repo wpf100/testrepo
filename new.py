@@ -1,4 +1,6 @@
 
+banana = 100
+
 def printstuff():
     print('new stuff here!')
 
